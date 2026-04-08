@@ -1,2 +1,2 @@
-# Fish-conifg
+# Fish-config
 fork from cachyos

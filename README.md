@@ -11,4 +11,4 @@ fork from cachyos
  sudo apt install eza
 
 ```
-### pliss install [nerd fonts](https://www.nerdfonts.com/) for eza 
+### pliss install <u><a href="https://www.google.com" target="_blank">Kunjungi Google</a></u> for eza 

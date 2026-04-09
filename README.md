@@ -9,3 +9,6 @@ fork from cachyos
 
 # Debian
  sudo apt install eza
+
+```
+### pliss install [nerd fonts](https://www.nerdfonts.com/) for eza 

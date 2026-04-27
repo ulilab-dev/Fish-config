@@ -1,5 +1,6 @@
 ## Source from conf.d before our fish config
 source ~/.config/fish/conf.d/done.fish
+starship init fish | source
 
 ## Set values
 ## Run fastfetch as welcome message
